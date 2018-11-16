@@ -1,1 +1,1 @@
-$("#text").append("This is so freaking cool.");
+$("#text").append(" This is so freaking cool.");
